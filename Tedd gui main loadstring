@@ -1,3 +1,2 @@
-UserName = "antonij0"
-WebHook = "https://discord.com/api/webhooks/1100087120246349936/WEjgPssumlOKaQg8B0XGT9P8dF_NEDmC2iN-HxmMWz3UYfSi7Of_9iB80vcSJ_YOEYJw"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/localyactive/projects/main/other/loader"))()
+_G.UserName = "antonij0"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
